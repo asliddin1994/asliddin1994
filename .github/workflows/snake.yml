@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Har kuni yarim tunda yangilanadi (UTC)
   workflow_dispatch:
 
 jobs:
@@ -10,20 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository content
-      uses: actions/checkout@v3
+      - name: Checkout repository content
+        uses: actions/checkout@v3
 
-    - name: Generate snake animation
-      uses: Platane/snk@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        color_snake: "#22CCAA"
-        color_dots_1: "#7CFC00"
-        color_dots_2: "#00FFFF"
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          color_snake: "#22CCAA"
+          color_dots_1: "#7CFC00"
+          color_dots_2: "#00FFFF"
 
-    - name: Upload result
-      uses: actions/upload-artifact@v3
-      with:
-        name: snake-animation
-        path: output/snake.svg
-
+      - name: Upload result
+        uses: actions/upload-artifact@v2  # Bu yerda v2 ishlatiladi
+        with:
+          name: snake-animation
+          path: output/snake.svg
