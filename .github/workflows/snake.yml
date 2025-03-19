@@ -22,7 +22,7 @@ jobs:
           color_dots_2: "#00FFFF"
 
       - name: Upload result
-        uses: actions/upload-artifact@v2  # Bu yerda v2 ishlatiladi
+        uses: actions/upload-artifact@v2.3.1
         with:
           name: snake-animation
           path: output/snake.svg
