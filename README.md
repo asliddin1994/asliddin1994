@@ -69,9 +69,6 @@ I love solving **complex backend problems** and optimizing system performance! ğ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliddin1994&layout=compact&theme=radical)](https://github.com/asliddin1994)
 
-### ğŸ GitHub Contribution Snake  
-
-![Snake animation](https://github.com/asliddin1994/asliddin1994/blob/output/github-snake.svg)
 
 
 
