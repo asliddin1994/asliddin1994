@@ -60,3 +60,16 @@ I love solving **complex backend problems** and optimizing system performance! �
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📊 GitHub Stats  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asliddin1994&show_icons=true&theme=radical)](https://github.com/asliddin1994)
+
+### 💻 Most Used Languages  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliddin1994&layout=compact&theme=radical)](https://github.com/asliddin1994)
+
+### 🐍 GitHub Contribution Snake  
+
+![snake gif](https://github.com/asliddin1994/asliddin1994/blob/output/github-contribution-grid-snake.svg)
+
