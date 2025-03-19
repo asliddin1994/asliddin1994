@@ -1,12 +1,12 @@
 ## Hi there! 👋
 <p align="center"> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU4ZG1vb3RhYXZlZmpsMTYxN2xlZ3RlMDhtMmkxbjRwNmgxZngyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="500"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU4ZG1vb3RhYXZlZmpsMTYxN2xlZ3RlMDhtMmkxbjRwNmgxZngyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="1000"/>
 </p>
 
-<a href="https://www.instagram.com/asliddinrustamov/">
+<a href="https://www.instagram.com/asliddin_rustamov1/">
   <img height="50" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://t.me/asliddinrustamov">
+<a href="https://t.me/asliddin63">
   <img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/asliddin-rustamov/">
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! 🚀
 ### 📫 How to Reach Me  
 - ✉️ Email: asliddinrustamov0@gmail.com  
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/asliddin-rustamov/)  
-- 📬 Telegram: [@asliddinrustamov](https://t.me/asliddinrustamov)  
+- 📬 Telegram: [@asliddinrustamov](https://t.me/asliddin63)  
 
 ### ⚡ Fun Fact  
 I love solving **complex backend problems** and optimizing system performance! 🚀  
