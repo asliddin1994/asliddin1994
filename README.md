@@ -71,5 +71,6 @@ I love solving **complex backend problems** and optimizing system performance! ğ
 
 ### ğŸ GitHub Contribution Snake  
 
-![snake gif](https://github.com/asliddin1994/asliddin1994/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/asliddin1994/asliddin1994/blob/output/github-snake.svg)
+
 
